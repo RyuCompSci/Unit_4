@@ -23,4 +23,4 @@ class Ascii():
         return self.result
 ```
 
-![]()
+![](image_quiz_50.png)
