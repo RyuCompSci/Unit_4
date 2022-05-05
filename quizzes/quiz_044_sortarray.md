@@ -19,4 +19,4 @@ class List_sort:
         return sorted_lst
 ```
 
-![]()
+![](image_quiz_44.png)
