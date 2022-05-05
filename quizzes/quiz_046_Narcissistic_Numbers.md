@@ -18,4 +18,4 @@ class Nar:
         return lst
 ```
 
-![]()
+![](image_quiz_46.png)
