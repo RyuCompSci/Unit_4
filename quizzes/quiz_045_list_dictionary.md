@@ -17,4 +17,4 @@ class Get_average:
         return sum
 ```
 
-![]()
+![](image_quiz_45.png)
