@@ -15,4 +15,4 @@ class MarsLander:
         return answer
 ```
 
-![]()
+![](image_quiz_48.png)
