@@ -31,4 +31,4 @@ class Unary:
         return unary
 ```
 
-![]()
+![](image_quiz_49.png)
