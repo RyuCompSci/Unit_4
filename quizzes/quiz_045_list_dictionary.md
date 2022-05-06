@@ -9,11 +9,11 @@ class Get_average:
         list_num = []
         sum = 0
         for item in self.students:
-            list_num.append(item["score"])
+            list_num.append(item["score"])　# add the value to the list with hint
         for i in range(len(list_num)):
             sum += list_num[i]
-        sum /= len(list_num)
-        sum = round(sum, 1)
+        sum /= len(list_num) # gets the average
+        sum = round(sum, 1) # round the value to 1 decimal place
         return sum
 ```
 
