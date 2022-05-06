@@ -12,7 +12,7 @@ class Nar:
             digits = len(num)
             sum = 0
             for j in range(len(num)):
-                sum += (int(num[j]))**digits
+                sum += (int(num[j]))**digits # adds exponentiate the value by the number of digits to the sum 
             if sum == int(num):
                 lst.append(sum)
         return lst
